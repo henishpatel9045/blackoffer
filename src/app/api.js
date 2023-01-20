@@ -1,6 +1,6 @@
 import { create } from "apisauce";
 
-const BASE_URL = "http://127.0.0.1:8000/";
+const BASE_URL = "http://blackoffer.pythonanywhere.com/";
 
 const api = create({
   baseURL: BASE_URL,
