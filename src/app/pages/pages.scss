@@ -1,0 +1,20 @@
+.dashboard-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    position: relative;
+    padding: 1rem .5rem;
+}
+
+.section-heading{
+    font-weight: 700;
+}
+
+.section-wrapper{
+    margin-left: .5rem;
+}
+
+.start-year-selector{
+    width: 100%;
+}
