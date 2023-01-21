@@ -1,6 +1,6 @@
 import { create } from "apisauce";
 
-const BASE_URL = "http://blackoffer.pythonanywhere.com/";
+const BASE_URL = "https://blackoffer.pythonanywhere.com/";
 
 const api = create({
   baseURL: BASE_URL,
